@@ -50,6 +50,4 @@ A multi-phase ecommerce project involving web scraping, structured data cleaning
 
 
 
-📧 Email: nyikoelsie99@email.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile# Junior_Data_Analyst
