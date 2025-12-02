@@ -8,6 +8,7 @@ Growing my knowledge in: Python, SQL and DAX
 Aspiring: Data Analyst / Data Engineer
 
 Passionate about: Data cleaning, analytics, visualization, and turning raw data into meaningful insights.
+🧹 Data Cleaning | 🔍 Exploratory Data Analysis (EDA)
 
 💻 Tech Stack
 
@@ -15,15 +16,11 @@ Languages:
 
 🐍 Python | 🗄️ SQL
 
-Data Visualization:
-
-📊 Looker Studio | 📈 Power BI
-
 Tools & Technologies:
 
-🧹 Data Cleaning | 🔍 Exploratory Data Analysis (EDA) | 📁 Excel | 🔗 APIs
+📊 Looker Studio | 📈 Power BI| 📁 Excel
 
-🚀 Featured Projects
+🚀 Featured Projects:
 
 🌾 Agricultural Analysis
 
