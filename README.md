@@ -3,7 +3,7 @@ Hi there 👋, I’m Nyiko
 
 Junior Data Analyst
 
-Growing my knowledge in: Python and SQL
+Growing my knowledge in: Python, SQL and DAX
 
 Aspiring: Data Analyst / Data Engineer
 
